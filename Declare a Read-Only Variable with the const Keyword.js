@@ -23,6 +23,8 @@
 // Passed:console.log should be changed to print the FCC and fact variables.
 
 
+Solution:
+
 const FCC = "freeCodeCamp"; // Change this line
 let fact = "is cool!"; // Change this line
   fact = "is awesome!";
