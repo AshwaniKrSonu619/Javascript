@@ -17,5 +17,7 @@
 // Passed:sum should equal 20.
 // Passed:You should use the + operator.
 
+Solution:
+
 const sum = 10 + 10;
 console.log(sum)
