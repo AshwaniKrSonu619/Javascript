@@ -19,8 +19,10 @@
 let myVar = 87;
 
 // Only change code below this line
-myVar = myVar + 1;   // myVar = 87;  ,so 87+1 = 88  
-myVar = ++myVar
+let myVar = 87;
+
+// Only change code below this line
+myVar = ++myVar  // myVar = 87;  ,so 1+87 = 88  
 console.log(myVar)    //    88  (output)
 
 
