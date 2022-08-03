@@ -12,7 +12,7 @@ console.log(myVar);
 
 Convert the assignments for a, b, and c to use the += operator.
 
-Tests
+Tests Cases:
 Passed:a should equal 15.
 Passed:b should equal 26.
 Passed:c should equal 19.
